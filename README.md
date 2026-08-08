@@ -1,13 +1,15 @@
 <!-- Profile README for github.com/kevinismiddleton -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,45:10233f,100:0d1117&amp;height=210&amp;section=header&amp;text=Phyo%20Pyae%20Kyaw&amp;fontSize=42&amp;fontColor=e6edf3&amp;fontAlignY=35&amp;desc=Electrical%20Engineering%20%E2%80%A2%20Smart%20Grid%20%E2%80%A2%20Cybersecurity&amp;descSize=15&amp;descColor=79c0ff&amp;descAlignY=57" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:f6f8fa,45:dbeafe,100:f6f8fa&amp;height=210&amp;section=header&amp;text=Phyo%20Pyae%20Kyaw&amp;fontSize=42&amp;fontColor=1f2328&amp;fontAlignY=35&amp;desc=Electrical%20Engineering%20%E2%80%A2%20Smart%20Grid%20%E2%80%A2%20Cybersecurity&amp;descSize=15&amp;descColor=0969da&amp;descAlignY=57" />
-  <img width="100%" alt="Phyo Pyae Kyaw — Electrical Engineering, Smart Grid, and Cybersecurity" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,45:10233f,100:0d1117&amp;height=210&amp;section=header&amp;text=Phyo%20Pyae%20Kyaw&amp;fontSize=42&amp;fontColor=e6edf3&amp;fontAlignY=35&amp;desc=Electrical%20Engineering%20%E2%80%A2%20Smart%20Grid%20%E2%80%A2%20Cybersecurity&amp;descSize=15&amp;descColor=79c0ff&amp;descAlignY=57" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,20:0c1631,50:112d4e,80:0c1631,100:0d1117&amp;height=230&amp;section=header&amp;text=Phyo%20Pyae%20Kyaw&amp;fontSize=46&amp;fontColor=58a6ff&amp;fontAlignY=30&amp;desc=Electrical%20Engineering%20%E2%80%A2%20Smart%20Grid%20%E2%80%A2%20Cybersecurity&amp;descSize=16&amp;descColor=8b949e&amp;descAlignY=52&amp;animation=fadeIn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:f6f8fa,20:e0f2fe,50:bae6fd,80:e0f2fe,100:f6f8fa&amp;height=230&amp;section=header&amp;text=Phyo%20Pyae%20Kyaw&amp;fontSize=46&amp;fontColor=0c4a6e&amp;fontAlignY=30&amp;desc=Electrical%20Engineering%20%E2%80%A2%20Smart%20Grid%20%E2%80%A2%20Cybersecurity&amp;descSize=16&amp;descColor=475569&amp;descAlignY=52&amp;animation=fadeIn" />
+  <img width="100%" alt="Phyo Pyae Kyaw — Electrical Engineering, Smart Grid, and Cybersecurity" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,20:0c1631,50:112d4e,80:0c1631,100:0d1117&amp;height=230&amp;section=header&amp;text=Phyo%20Pyae%20Kyaw&amp;fontSize=46&amp;fontColor=58a6ff&amp;fontAlignY=30&amp;desc=Electrical%20Engineering%20%E2%80%A2%20Smart%20Grid%20%E2%80%A2%20Cybersecurity&amp;descSize=16&amp;descColor=8b949e&amp;descAlignY=52&amp;animation=fadeIn" />
 </picture>
 
 <p align="center">
-  <samp>Power systems thinker · packet-level problem solver · hardware/software builder</samp>
+  <a href="https://github.com/kevinismiddleton">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=620&amp;height=30&amp;lines=Power+Systems+Thinker;Packet-Level+Problem+Solver;Hardware+%2F+Software+Builder;Smart+Grid+%C3%97+Cybersecurity" alt="Typing SVG — Power Systems Thinker · Packet-Level Problem Solver · Hardware/Software Builder · Smart Grid × Cybersecurity" />
+  </a>
 </p>
 
 <p align="center">
@@ -17,72 +19,101 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kevinscottmiddleton/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/mingvin_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="X" /></a>
+  <a href="https://www.linkedin.com/in/kevinscottmiddleton/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://x.com/mingvin_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="X" /></a>&nbsp;
   <a href="https://instagram.com/mingvin_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram" /></a>
 </p>
 
 ---
 
-## About me
+## 🧑‍💻 About
 
-I'm **Phyo Pyae Kyaw** (Kevin), an Electrical Engineering and Smart Grid Technology student at **Chiang Mai University**. I enjoy the boundary where physical infrastructure meets software: measuring real systems, moving their data safely, and turning that data into useful decisions.
+```yaml
+# ~/kevin.yaml
 
-| Lens | What interests me |
-| :--- | :--- |
-| ⚡ **Power** | Power systems and smarter, more observable grids |
-| 📡 **Edge** | IoT, embedded systems, and hardware/software prototypes |
-| 🌐 **Networks** | Reliable infrastructure and how devices communicate |
-| 🔐 **Security** | Protecting the systems behind modern energy infrastructure |
+name:     Phyo Pyae Kyaw (Kevin)
+role:     EE & Smart Grid Technology Student
+base:     Chiang Mai University · Thailand
+focus:    Where physical infrastructure meets software
 
-> **Current coordinates:** studying EE and smart-grid technology, exploring network security, and building across the hardware/software boundary.
+domains:
+  power:     "Smarter, more observable grids"
+  edge:      "IoT, embedded, hardware/software prototypes"
+  networks:  "Reliable infrastructure & device communication"
+  security:  "Protecting modern energy systems"
 
-## Engineering map
-
-```text
-  ENERGY          PHYSICAL WORLD           DIGITAL WORLD
-
-  generation ──► grid ──► sensing ──► edge control ──► network ──► secure insight
-                     ▲          │             │             │
-                     └──────────┴──── observe, automate, protect ──┘
+mission: |
+  Measure real systems → move data safely → useful decisions.
 ```
 
-That end-to-end path—from electrons to authenticated packets—is the kind of system I want to understand deeply.
+> 🔭 &ensp; **Currently:** studying EE and smart-grid technology, exploring network security, and building across the hardware/software boundary.
 
-## Toolkit
+---
 
-<p align="center"><strong>Code & analysis</strong></p>
+## ⚡ Engineering Map
+
+```mermaid
+flowchart LR
+    GEN["⚡ Generation"] --> GRID["🔌 Grid"] --> SENSE["📡 Sensing"] --> EDGE["🔧 Edge Control"] --> NET["🌐 Network"] --> SECURE["🔒 Secure Insight"]
+    SECURE -.->|"observe · automate · protect"| GEN
+
+    classDef energy fill:#2d1b69,stroke:#a78bfa,color:#e9d5ff
+    classDef physical fill:#1e3a5f,stroke:#60a5fa,color:#bfdbfe
+    classDef digital fill:#064e3b,stroke:#34d399,color:#a7f3d0
+
+    class GEN energy
+    class GRID,SENSE physical
+    class EDGE,NET,SECURE digital
+```
+
+> That end-to-end path — from electrons to authenticated packets — is the kind of system I want to understand deeply.
+
+---
+
+## 🛠️ Toolkit
+
+<p align="center"><samp>Languages &amp; Analysis</samp></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,bash,matlab&amp;theme=dark&amp;perline=6" alt="Python, C, C++, JavaScript, Bash, and MATLAB" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,bash,matlab&amp;theme=dark&amp;perline=6" alt="Python, C, C++, JavaScript, Bash, MATLAB" />
 </p>
 
-<p align="center"><strong>Applications & APIs</strong></p>
+<p align="center"><samp>Web &amp; APIs</samp></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,flask,fastapi&amp;theme=dark&amp;perline=6" alt="HTML, CSS, React, Node.js, Flask, and FastAPI" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,flask,fastapi&amp;theme=dark&amp;perline=6" alt="HTML, CSS, React, Node.js, Flask, FastAPI" />
 </p>
 
-<p align="center"><strong>Systems & infrastructure</strong></p>
+<p align="center"><samp>Systems &amp; Security</samp></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,kali,cloudflare&amp;theme=dark&amp;perline=6" alt="Linux, Docker, Git, GitHub, Kali Linux, and Cloudflare" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,kali,cloudflare&amp;theme=dark&amp;perline=6" alt="Linux, Docker, Git, GitHub, Kali Linux, Cloudflare" />
 </p>
 
-<p align="center"><strong>Hardware, data & cloud</strong></p>
+<p align="center"><samp>Hardware &amp; Cloud</samp></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,mysql,mongodb,aws,azure&amp;theme=dark&amp;perline=6" alt="Arduino, Raspberry Pi, MySQL, MongoDB, AWS, and Azure" />
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,mysql,mongodb,aws,azure&amp;theme=dark&amp;perline=6" alt="Arduino, Raspberry Pi, MySQL, MongoDB, AWS, Azure" />
 </p>
 
 <details>
-<summary><strong>How I approach a system</strong></summary>
+<summary>&ensp;<strong>⚙️ How I approach a system</strong></summary>
+<br/>
 
-1. Understand the physical process and its failure modes.
-2. Measure the right signals, as close to the source as practical.
-3. Move data through the smallest reliable interface.
-4. Treat security and observability as design inputs—not add-ons.
-5. Keep the result simple enough to test, explain, and maintain.
+| Step | Action |
+| :---: | :--- |
+| `01` | Understand the physical process and its failure modes |
+| `02` | Measure the right signals, as close to the source as practical |
+| `03` | Move data through the smallest reliable interface |
+| `04` | Treat security and observability as design inputs — not add-ons |
+| `05` | Keep it simple enough to test, explain, and maintain |
 
 </details>
 
-## GitHub activity
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kevinismiddleton&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=58a6ff&amp;text_color=8b949e&amp;icon_color=58a6ff" alt="Phyo's GitHub Stats" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinismiddleton&amp;layout=compact&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=58a6ff&amp;text_color=8b949e" alt="Top Languages" />
+</p>
 
 <p align="center">
   <a href="https://github.com/kevinismiddleton">
@@ -98,10 +129,20 @@ That end-to-end path—from electrons to authenticated packets—is the kind of 
   </picture>
 </p>
 
+<!-- 3D Contribution Graph — generated by .github/workflows/profile-3d.yml   -->
+<!-- Run the "GitHub-Profile-3D-Contrib" action manually the first time.      -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
+    <img alt="3D Contribution Graph" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+  </picture>
+</p>
+
 ---
 
 <p align="center">
-  <em>“I debug circuits by day, packets by night.”</em>
+  <samp><em>"I debug circuits by day, packets by night."</em></samp>
 </p>
 
 <p align="center">
@@ -109,7 +150,7 @@ That end-to-end path—from electrons to authenticated packets—is the kind of 
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:10233f,100:0d1117&amp;height=90&amp;section=footer" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:f6f8fa,50:dbeafe,100:f6f8fa&amp;height=90&amp;section=footer" />
-  <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:10233f,100:0d1117&amp;height=90&amp;section=footer" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,20:0c1631,50:112d4e,80:0c1631,100:0d1117&amp;height=100&amp;section=footer" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:f6f8fa,20:e0f2fe,50:bae6fd,80:e0f2fe,100:f6f8fa&amp;height=100&amp;section=footer" />
+  <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,20:0c1631,50:112d4e,80:0c1631,100:0d1117&amp;height=100&amp;section=footer" />
 </picture>
