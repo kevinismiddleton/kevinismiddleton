@@ -1,202 +1,115 @@
-<![CDATA[<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    HEADER — WAVE BANNER                      -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- Profile README for github.com/kevinismiddleton -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:101d2f,50:1a3a5c,75:101d2f,100:0d1117&height=220&section=header&text=Phyo%20Pyae%20Kyaw&fontSize=44&fontColor=e6edf3&fontAlignY=34&animation=fadeIn&desc=Electrical%20Engineering%20%20%E2%80%A2%20%20Smart%20Grid%20%20%E2%80%A2%20%20Cybersecurity&descSize=15&descColor=58a6ff&descAlignY=56"/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    TYPING ANIMATION                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,45:10233f,100:0d1117&amp;height=210&amp;section=header&amp;text=Phyo%20Pyae%20Kyaw&amp;fontSize=42&amp;fontColor=e6edf3&amp;fontAlignY=35&amp;desc=Electrical%20Engineering%20%E2%80%A2%20Smart%20Grid%20%E2%80%A2%20Cybersecurity&amp;descSize=15&amp;descColor=79c0ff&amp;descAlignY=57" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:f6f8fa,45:dbeafe,100:f6f8fa&amp;height=210&amp;section=header&amp;text=Phyo%20Pyae%20Kyaw&amp;fontSize=42&amp;fontColor=1f2328&amp;fontAlignY=35&amp;desc=Electrical%20Engineering%20%E2%80%A2%20Smart%20Grid%20%E2%80%A2%20Cybersecurity&amp;descSize=15&amp;descColor=0969da&amp;descAlignY=57" />
+  <img width="100%" alt="Phyo Pyae Kyaw — Electrical Engineering, Smart Grid, and Cybersecurity" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,45:10233f,100:0d1117&amp;height=210&amp;section=header&amp;text=Phyo%20Pyae%20Kyaw&amp;fontSize=42&amp;fontColor=e6edf3&amp;fontAlignY=35&amp;desc=Electrical%20Engineering%20%E2%80%A2%20Smart%20Grid%20%E2%80%A2%20Cybersecurity&amp;descSize=15&amp;descColor=79c0ff&amp;descAlignY=57" />
+</picture>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&random=false&width=600&lines=%E2%9A%A1+Electrical+Engineering+Student+%40+CMU;%F0%9F%94%92+Network+Engineering+%26+Cybersecurity;%F0%9F%8C%90+Smart+Grid+Technology+Enthusiast;%F0%9F%92%BB+Building+the+Future+of+Energy+Systems" alt="Typing SVG" />
-  </a>
+  <samp>Power systems thinker · packet-level problem solver · hardware/software builder</samp>
 </p>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    DIVIDER                                    -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://img.shields.io/badge/Chiang_Mai-Thailand-0969da?style=flat-square" alt="Chiang Mai, Thailand" />
+  <img src="https://img.shields.io/badge/CMU-Electrical_Engineering-8250df?style=flat-square" alt="Electrical Engineering at Chiang Mai University" />
+  <img src="https://img.shields.io/badge/Focus-Smart_Grid_%2B_Security-1f6feb?style=flat-square" alt="Focus: Smart Grid and Security" />
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    ABOUT ME                                   -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/kevinscottmiddleton/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/mingvin_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="X" /></a>
+  <a href="https://instagram.com/mingvin_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram" /></a>
+</p>
 
-<h2 align="center">🧑‍💻 About Me</h2>
+---
 
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="600">
+## About me
 
-```yaml
-name: Phyo Pyae Kyaw
-alias: Kevin
-location: Chiang Mai, Thailand 🇹🇭
-university: Chiang Mai University (CMU)
-major: Electrical Engineering & Smart Grid Technology
+I'm **Phyo Pyae Kyaw** (Kevin), an Electrical Engineering and Smart Grid Technology student at **Chiang Mai University**. I enjoy the boundary where physical infrastructure meets software: measuring real systems, moving their data safely, and turning that data into useful decisions.
 
-fields:
-  - ⚡ Power Systems & Smart Grid
-  - 🔒 Cybersecurity
-  - 🌐 Network Engineering
-  - 🤖 IoT & Embedded Systems
+| Lens | What interests me |
+| :--- | :--- |
+| ⚡ **Power** | Power systems and smarter, more observable grids |
+| 📡 **Edge** | IoT, embedded systems, and hardware/software prototypes |
+| 🌐 **Networks** | Reliable infrastructure and how devices communicate |
+| 🔐 **Security** | Protecting the systems behind modern energy infrastructure |
 
-currently:
-  - 📚 Studying EE & Smart Grid Technology
-  - 🔬 Exploring network security & infrastructure
-  - 🛠️ Building projects that bridge hardware & software
+> **Current coordinates:** studying EE and smart-grid technology, exploring network security, and building across the hardware/software boundary.
 
-fun_fact: "I debug circuits by day, packets by night."
+## Engineering map
+
+```text
+  ENERGY          PHYSICAL WORLD           DIGITAL WORLD
+
+  generation ──► grid ──► sensing ──► edge control ──► network ──► secure insight
+                     ▲          │             │             │
+                     └──────────┴──── observe, automate, protect ──┘
 ```
 
-</td>
-</tr>
-</table>
+That end-to-end path—from electrons to authenticated packets—is the kind of system I want to understand deeply.
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    SOCIAL BADGES                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+## Toolkit
 
-<h2 align="center">🌐 Connect with Me</h2>
-
+<p align="center"><strong>Code & analysis</strong></p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/kevinscottmiddleton/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://x.com/mingvin_" target="_blank">
-    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter"/>
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/mingvin_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,bash,matlab&amp;theme=dark&amp;perline=6" alt="Python, C, C++, JavaScript, Bash, and MATLAB" />
 </p>
 
+<p align="center"><strong>Applications & APIs</strong></p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,flask,fastapi&amp;theme=dark&amp;perline=6" alt="HTML, CSS, React, Node.js, Flask, and FastAPI" />
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    TECH STACK                                 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
-
-<h4 align="center">⚡ Languages</h4>
+<p align="center"><strong>Systems & infrastructure</strong></p>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,js,bash,matlab&theme=dark" alt="Languages"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,kali,cloudflare&amp;theme=dark&amp;perline=6" alt="Linux, Docker, Git, GitHub, Kali Linux, and Cloudflare" />
 </p>
 
-<h4 align="center">🌐 Web & Frameworks</h4>
+<p align="center"><strong>Hardware, data & cloud</strong></p>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,flask,fastapi&theme=dark" alt="Web & Frameworks"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,mysql,mongodb,aws,azure&amp;theme=dark&amp;perline=6" alt="Arduino, Raspberry Pi, MySQL, MongoDB, AWS, and Azure" />
 </p>
 
-<h4 align="center">🔧 Infrastructure & Security</h4>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,docker,git,github,kali,cloudflare&theme=dark" alt="Infra & Security"/>
-  </a>
-</p>
+<details>
+<summary><strong>How I approach a system</strong></summary>
 
-<h4 align="center">📟 Hardware & IoT</h4>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" alt="Hardware & IoT"/>
-  </a>
-</p>
+1. Understand the physical process and its failure modes.
+2. Measure the right signals, as close to the source as practical.
+3. Move data through the smallest reliable interface.
+4. Treat security and observability as design inputs—not add-ons.
+5. Keep the result simple enough to test, explain, and maintain.
 
-<h4 align="center">📦 Databases & Cloud</h4>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,aws,azure&theme=dark" alt="Databases & Cloud"/>
-  </a>
-</p>
+</details>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    GITHUB STATS                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">📊 GitHub Analytics</h2>
+## GitHub activity
 
 <p align="center">
   <a href="https://github.com/kevinismiddleton">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=kevinismiddleton&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&ring_color=1f6feb&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/kevinismiddleton">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinismiddleton&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+    <img src="https://streak-stats.demolab.com?user=kevinismiddleton&amp;hide_border=true&amp;background=00000000&amp;stroke=58A6FF&amp;ring=58A6FF&amp;fire=FF7B72&amp;currStreakNum=58A6FF&amp;sideNums=58A6FF&amp;currStreakLabel=8B949E&amp;sideLabels=8B949E&amp;dates=8B949E" alt="Phyo's GitHub contribution streak" />
   </a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/kevinismiddleton">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=kevinismiddleton&hide_border=true&background=0D1117&stroke=1a3a5c&ring=58a6ff&fire=58a6ff&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak"/>
-  </a>
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    ACTIVITY GRAPH                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<p align="center">
-  <a href="https://github.com/kevinismiddleton">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kevinismiddleton&bg_color=0d1117&color=58a6ff&line=1f6feb&point=e6edf3&area_color=1a3a5c&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    SNAKE ANIMATION                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kevinismiddleton/kevinismiddleton/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kevinismiddleton/kevinismiddleton/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/kevinismiddleton/kevinismiddleton/output/github-snake.svg" />
+    <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/kevinismiddleton/kevinismiddleton/output/github-snake.svg" />
   </picture>
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    PROFILE VIEWS & QUOTE                      -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
+  <em>“I debug circuits by day, packets by night.”</em>
 </p>
-
-<br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kevinismiddleton&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=kevinismiddleton&amp;style=flat-square&amp;color=1f6feb&amp;label=profile+views" alt="Profile views" />
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    FOOTER — WAVE BANNER                       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:101d2f,50:1a3a5c,75:101d2f,100:0d1117&height=120&section=footer"/>
-]]>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:10233f,100:0d1117&amp;height=90&amp;section=footer" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:f6f8fa,50:dbeafe,100:f6f8fa&amp;height=90&amp;section=footer" />
+  <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:10233f,100:0d1117&amp;height=90&amp;section=footer" />
+</picture>
