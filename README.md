@@ -125,7 +125,7 @@ flowchart LR
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31z46lacmqlzlgamjscjegnt5f5i&amp;redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31z46lacmqlzlgamjscjegnt5f5i&amp;cover_image=true&amp;theme=novatorem&amp;show_offline=true&amp;background_color=0d1117&amp;interchange=true&amp;bar_color=58a6ff&amp;bar_color_cover=false" alt="Spotify Now Playing" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31z46lacmqlzlgamjscjegnt5f5i&amp;cover_image=true&amp;theme=natemoo-re&amp;show_offline=true&amp;background_color=0d1117&amp;interchange=false&amp;bar_color=58a6ff&amp;bar_color_cover=true" alt="Spotify Now Playing" />
   </a>
 </p>
 
