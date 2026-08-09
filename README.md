@@ -44,6 +44,21 @@
   <sub>Smarter grids&ensp;·&ensp;IoT &amp; embedded&ensp;·&ensp;Infrastructure &amp; communication&ensp;·&ensp;Energy system protection</sub>
 </p>
 
+<details>
+<summary>&ensp;<strong>📋 More about me</strong></summary>
+<br/>
+
+```text
+🎓  3rd-year EE & Smart Grid Technology student at Chiang Mai University
+🌏  Based in Chiang Mai, Thailand · originally from Myanmar
+🔬  Research interest: SCADA security and grid observability
+🧰  Love building things that bridge hardware and software
+🎮  When not coding: gaming, exploring coffee shops, late-night debugging
+🗣️  Languages: Burmese (native) · English · Thai
+```
+
+</details>
+
 > 🔭 &ensp; **Currently:** studying EE and smart-grid technology, exploring network security, and building across the hardware/software boundary.
 
 ---
@@ -103,6 +118,16 @@ flowchart LR
 | `05` | Keep it simple enough to test, explain, and maintain |
 
 </details>
+
+---
+
+## 🎵 Now Playing
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31z46lacmqlzlgamjscjegnt5f5i&amp;redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31z46lacmqlzlgamjscjegnt5f5i&amp;cover_image=true&amp;theme=novatorem&amp;show_offline=true&amp;background_color=0d1117&amp;interchange=true&amp;bar_color=58a6ff&amp;bar_color_cover=false" alt="Spotify Now Playing" />
+  </a>
+</p>
 
 ---
 
